@@ -7,7 +7,6 @@ import java.sql.Statement;
 /**
  * Simple Java program to connect to MySQL database running on localhost and
  * running SELECT and INSERT query to retrieve and add data.
- * @author Javin Paul
  */
 public class JavaToMySQL {
 
